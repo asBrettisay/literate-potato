@@ -1,2 +1,2 @@
 # literate-potato
-This is a short example for DevMountain Students
+This is a short example for DevMountain Students.
